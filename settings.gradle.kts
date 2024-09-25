@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Unit Convertor Aplication Oasis infobyte"
+rootProject.name = "Stopwatch"
 include(":app")
+ 
